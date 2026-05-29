@@ -26,7 +26,7 @@ Companion to the desktop [HEIMDALL](https://github.com/Danish-spidy/heimdall-sho
 
 ## Demo
 
-<video src="https://github.com/Danish-spidy/heimdall-guard-showcase/raw/main/demo/HEIMDALL_GUARD_demo.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/cbc3fa61-d01f-4c77-b6f0-8ec6e5d54ae1
 
 ![HEIMDALL Guard hero](docs/hero.png)
 
